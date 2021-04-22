@@ -1,8 +1,7 @@
-#ENPM693 - Network Security
-#Homework 3 - Feistel Encryption/Decryption Algorithms
+#Network Security
+#Feistel Encryption/Decryption Algorithms
 #March 3, 2021
 
-UID = 116430197
 Last_Name = "Mukam"
 First_Name = "Kevin"
 
